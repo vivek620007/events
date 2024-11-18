@@ -1,0 +1,76 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-11-16 11:30:45.474376",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "add_student",
+  "route",
+  "number_of_capacity",
+  "distance_from_school",
+  "add_stops",
+  "bus_number"
+ ],
+ "fields": [
+  {
+   "fieldname": "add_student",
+   "fieldtype": "Data",
+   "label": "Add Student",
+   "reqd": 1
+  },
+  {
+   "fieldname": "route",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Route",
+   "reqd": 1
+  },
+  {
+   "fieldname": "number_of_capacity",
+   "fieldtype": "Data",
+   "label": "Number Of Capacity"
+  },
+  {
+   "fieldname": "distance_from_school",
+   "fieldtype": "Int",
+   "label": "Distance From School"
+  },
+  {
+   "fieldname": "add_stops",
+   "fieldtype": "Data",
+   "label": "Add Stops"
+  },
+  {
+   "fieldname": "bus_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Bus Number",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-11-18 12:44:25.290732",
+ "modified_by": "Administrator",
+ "module": "Events",
+ "name": "Route",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
