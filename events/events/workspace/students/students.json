@@ -1,7 +1,7 @@
 {
  "app": "events",
  "charts": [],
- "content": "[{\"id\":\"MMP4nhhzW8\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Student</span>\",\"col\":12}},{\"id\":\"Evu5DjZ1k1\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Student\",\"col\":12}}]",
+ "content": "[{\"id\":\"MMP4nhhzW8\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Student</span>\",\"col\":12}},{\"id\":\"e07GUxwdHS\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Student\",\"col\":12}}]",
  "creation": "2024-11-19 10:12:05.919195",
  "custom_blocks": [],
  "docstatus": 0,
@@ -16,7 +16,7 @@
  "link_to": "Student",
  "link_type": "DocType",
  "links": [],
- "modified": "2024-11-19 10:15:29.660044",
+ "modified": "2024-11-19 11:52:07.704054",
  "modified_by": "Administrator",
  "module": "Events",
  "name": "Students",
@@ -35,5 +35,5 @@
  "sequence_id": 23.0,
  "shortcuts": [],
  "title": "Students",
- "type": "Link"
+ "type": "Workspace"
 }
