@@ -15,8 +15,9 @@
  "fields": [
   {
    "fieldname": "add_student",
-   "fieldtype": "Data",
+   "fieldtype": "Link",
    "label": "Add Student",
+   "options": "Student",
    "reqd": 1
   },
   {
@@ -51,7 +52,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-18 12:44:25.290732",
+ "modified": "2024-11-19 10:40:48.142795",
  "modified_by": "Administrator",
  "module": "Events",
  "name": "Route",

@@ -56,7 +56,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-18 12:42:15.962660",
+ "modified": "2024-11-19 10:41:40.490193",
  "modified_by": "Administrator",
  "module": "Events",
  "name": "Student",
@@ -75,7 +75,9 @@
    "write": 1
   }
  ],
+ "show_title_field_in_link": 1,
  "sort_field": "creation",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "full_name"
 }
